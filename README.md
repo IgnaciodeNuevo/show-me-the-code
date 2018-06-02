@@ -16,6 +16,7 @@
 - [Babel] for compiling
 
 ## How to
+
 - To run in development mode with hot reloading, open a terminal inside your project and run
     ```bash
     npm run dev

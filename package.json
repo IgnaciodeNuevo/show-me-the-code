@@ -1,7 +1,7 @@
 {
   "name": "electron-react",
   "version": "1.0.0",
-  "description": "Boilerplate for Electron and React",
+  "description": "Show me the Money: Code Snippet App",
   "main": "./app/build/app.js",
   "scripts": {
     "dev": "concurrently \"cross-env NODE_ENV=development webpack-dev-server --config webpack/dev.config.js\" \"cross-env NODE_ENV=development electron ./app/src/main/app.js\"",
@@ -12,7 +12,7 @@
     "dist": "npm run prod && electron-builder",
     "postinstall": "electron-builder install-app-deps"
   },
-  "author": "Tahnik Mustasin",
+  "author": "Ignacio Villanueva, Ismael Navarro, Israel Vilches",
   "license": "MIT",
   "build": {
     "productName": "electron-react",
