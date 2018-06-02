@@ -22,6 +22,13 @@
     npm run dev
     ```
 
+    To refresh the browser
+
+    ```
+    On Windows: CTRL + R
+    On Mac: Command + R
+    ```
+
     This commands creates a webpack dev server which will watch and reload the bundle as you edit and will it available at https://localhost:8080.
     The command will also run the electron app in development mode. So it will open up devtools with React and Redux devtools initialized.
 - To build the app and test if it is working:
