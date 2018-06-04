@@ -35,7 +35,7 @@
     "jsx-a11y/href-no-hash": "off",
     "import/no-dynamic-require": 0,
     "import/no-extraneous-dependencies": "off",
-    "linebreak-style": ["error", "unix"],
+    "linebreak-style": ["error", "windows"],
     "react/forbid-prop-types": 0,
     "react/require-default-props": 0,
     "function-paren-newline": ["error", "consistent"],
